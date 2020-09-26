@@ -1,4 +1,3 @@
-import java.util.regex.Pattern;
 class Solution {
     public String validateIPv4(String IP) {
         String[] nums = IP.split("\\.", -1);
